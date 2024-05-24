@@ -135,10 +135,10 @@ sponsors:
    level: gold
  - id: hasura
    level: gold
-#  - id: teleport
-#    level: gold
-#  - id: gitlab
-#    level: gold
+ - id: nashville-data-nerds
+   level: community
+ - id: nashvillesoftwareschool
+   level: community
 #  - id: instana
 #    level: silver
 #  - id: trendmicro
