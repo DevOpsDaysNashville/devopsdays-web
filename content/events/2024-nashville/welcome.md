@@ -29,7 +29,7 @@ Description = "DevOpsDays Nashville 2024"
     <h2 style="color: #C19A6B; display: inline-block;"><p>DevOps Days Nashville is almost a month away, register now!</a></p></h2>
     <p>July 10th is right around the corner, don't miss out on this opportunity to hear some amazing speakers, learn more about our incredible sponsors, grow your network, and be a part of this awesome community!</p>
     <p><h3><b><a href="https://events.humanitix.com/devopsdays-nashville-2024" target="_blank">Tickets available</a></b></h3></p>
-    <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed, speakers annoucements soon!</p></h2>
+    <h2 style="color: #C19A6B; display: inline-block;"><p>CFP is closed. Speaker announcements coming soon!</p></h2>
     <p>We just closed our CFP and now we are going through the over 130 submissions to create the best DevOps Days Nashville yet!</p> 
     <p>Check back often, or join our <a href="https://www.linkedin.com/company/devopsdays-nashville">LinkedIn page</a>.</p>
     <!-- <h2><p><a href="https://www.papercall.io/devopsdays-nashville-2024" style="color: #C19A6B">Call for Proposals Open Until May 31st</a></p></h2>
