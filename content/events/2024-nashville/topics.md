@@ -71,6 +71,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
     <td>Standard</td>
   </tr>
   <tr>
+    <td>How to Showcase Engineering Initiatives to an Executive Audience</td>
+    <td>Annie Garcia Hodgkins</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
     <td>How to Smoke a Pipeline</td>
     <td>Tyler Welton</td>
     <td>Standard</td>
@@ -98,6 +103,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
   <tr>
     <td>Chaos Engineering in Action: Practical Techniques for Building Fault-Tolerant Systems</td>
     <td>Hareesh Iyer</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
+    <td>Drawing Insights: Software Development Lessons from XKCD</td>
+    <td>Dan Cook</td>
     <td>Lightning</td>
   </tr>
   <tr>
