@@ -86,6 +86,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
     <td>Standard</td>
   </tr>
   <tr>
+    <td>Microservices and Multiple Sources of Truth: It’s Not Your Fault</td>
+    <td>Vijay Ramamurthy</td>
+    <td>Standard</td>
+  </tr>
+  <tr>
     <td>Modern Application Debugging: An Intro to OpenTelemetry</td>
     <td>Josh Lee</td>
     <td>Standard</td>
@@ -123,6 +128,11 @@ Description = "DevOpsDays Nashville 2024 Topics"
   <tr>
     <td>Lightning Talk: DevOps, 12-Factor, and Platform Engineering</td>
     <td>Justin Reock</td>
+    <td>Lightning</td>
+  </tr>
+  <tr>
+    <td>Zero to Hero - NetDevOps!</td>
+    <td>Akash Bhasakr</td>
     <td>Lightning</td>
   </tr>
 </table>
