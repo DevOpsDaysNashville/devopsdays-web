@@ -25,7 +25,7 @@ Description = "DevOpsDays Nashville 2024"
     <h1><p>Welcome to DevOps Days Nashville 2024</p></h1>
     <p>DevOps Days will be coming back to {{< event_location >}} on July 10th and 11th.</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</p></h2>
-    <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our day one keynote speakers!</p>
+    <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our day one keynote speaker!</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker Camilla Martins!</p></h2>
     <p>We are happy to announce that Camilla Martins is our day two keynote speaker!</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Check out our event topics!</a></p></h2>
