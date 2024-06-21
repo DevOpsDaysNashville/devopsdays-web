@@ -27,7 +27,7 @@ Description = "DevOpsDays Nashville 2024"
     <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker John Willis!</p></h2>
     <p>We are happy to announce that <a href="https://itrevolution.com/author/john-willis/" target="_blank">John Willis</a> is our day one keynote speakers!</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Guest Keynote Speaker Camilla Martins!</p></h2>
-    <p>We are happy to announce that Camilla Martins is our day two keynote speakers!</p>
+    <p>We are happy to announce that Camilla Martins is our day two keynote speaker!</p>
     <h2 style="color: #C19A6B; display: inline-block;"><p>Check out our event topics!</a></p></h2>
     <p>We are busy finalizing the schedule, but we wanted you to see all the amazing list of topics and speakers!</p>
     <p><h3><b>{{< event_link page="topics" text="Topics and Speakers!" >}}</b></h3></p>
