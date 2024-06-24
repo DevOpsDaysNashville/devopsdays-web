@@ -198,17 +198,17 @@ sponsor_levels:
 program:
   - title: "Doors Open and Breakfast"
     type: custom
-    date: 2024-07-10T08:00:00-09:00
+    date: 2024-07-10T00:00:00-06:00
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2024-07-10T09:00:00-09:10
+    date: 2024-07-10T00:00:00-06:00
     start_time: "09:00"
     end_time: "09:10"
   - title: "john-willis"
     type: talk
-    date: 2024-07-10T09:10:00-010:00
+    date: 2024-07-10T00:00:00-06:00
     start_time: "09:10"
     end_time: "10:00"
   - title: "Break"
