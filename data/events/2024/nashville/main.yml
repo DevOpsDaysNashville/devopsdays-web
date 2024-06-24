@@ -21,7 +21,7 @@ cfp_open: "false"
 #cfp_link: "https://www.papercall.io/devopsdays-nashville-2024" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2024-02-22T00:00:59-06:00   # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2024-07-09T00:00:59-06:00     # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2024-07-11T00:00:59-06:00     # close registration. Leave blank if registration is not open yet.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "https://www.eventbrite.com/e/125517206343/"   # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -51,7 +51,7 @@ location_address: "201 5th Avenue South, Nashville, TN 37203" #Optional - use th
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
   - name: topics
-  # - name: program
+  - name: program
   # - name: speakers
   - name: location
   - name: contact
