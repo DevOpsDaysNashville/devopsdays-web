@@ -2,11 +2,11 @@
 Title = "DevOpsDays + AI Nashville 2026"
 Type = "welcome"
 aliases = [
-  "/events/2024-nashville/",
-  "/events/2024-nashville/location/",
-  "/events/2024-nashville/sponsor/",
-  "/events/2024-nashville/propose/",
-  "/events/2024-nashville/registration/"]
+  "/events/2026-nashville/",
+  "/events/2026-nashville/location/",
+  "/events/2026-nashville/sponsor/",
+  "/events/2026-nashville/propose/",
+  "/events/2026-nashville/registration/"]
 Description = "DevOpsDays + AI Nashville 2026"
 +++
 
