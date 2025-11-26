@@ -71,42 +71,42 @@ Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=
     </tr>
     <tr>
       <td colspan="2">Booth space (table with power and table cloth)</td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
       <td>&check;</td>
       <td>&check;</td>
     </tr>
     <tr>
       <td colspan="2">Giveaway Promotions Throughout Event</td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i><td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
       <td>&check;</td>
     <tr>
       <td colspan="2">Logo on Website, Main Room Signage and E-Mails</td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
     </tr>
     <tr>
       <td colspan="2">Social Media Sponsor Shout-Outs</td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code for ten (10) tickets to share with your community</td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
-      <td>&check;</i></td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
+      <td>&check;</td>
     </tr>
   </tbody>
 </table>
