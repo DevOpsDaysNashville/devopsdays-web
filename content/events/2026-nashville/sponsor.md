@@ -74,7 +74,7 @@ Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=
       <td>&check;</i></td>
       <td>&check;</i></td>
       <td>&check;</i></td>
-      <td></td>
+      <td>&check;</td>
       <td>&check;</td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@ Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=
       <td>&check;</i></td>
       <td>&check;</i></td>
       <td>&check;</i></td>
-      <td></td>
+      <td>&check;</i><td>
       <td>&check;</td>
     <tr>
       <td colspan="2">Logo on Website, Main Room Signage and E-Mails</td>
