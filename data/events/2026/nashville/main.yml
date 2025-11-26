@@ -36,7 +36,7 @@ location_address: "1642 MTSU Boulevard, Murfreesboro, TN 37132" #Optional - use 
 
 # Optional - Social badges
 # These can be used in the body of any page via matching shortcodes. See sample:  https://devopsdays.org/events/2025-denver/welcome/
-event_social_linkedin: "https://linkedin.com/company/nashvilledevops" # Change this to the url to your Linkedin group, company, or page.
+event_social_linkedin: "https://www.linkedin.com/company/devopsdays-nashville" # Change this to the url to your Linkedin group, company, or page.
 #event_social_slack: "https://join.slack.com/t/nashvilledevops/custom_shared_invite_url" # Change this to your slack invite link.
 #event_social_listserv: "https://lists.devopsdays.org/subscription?custom_listserv_invite_url" # Change this to your mailing list subscription form url.
 event_social_twitter: "nashvilledevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
