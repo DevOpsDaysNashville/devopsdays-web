@@ -10,9 +10,9 @@ aliases = [
 Description = "DevOpsDays + AI Nashville 2026"
 +++
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <div class="row">
   <div class = "col-md-3">

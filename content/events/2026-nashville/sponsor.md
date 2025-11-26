@@ -215,9 +215,9 @@ We are excited to have you sponsor our event. We also understand that there are 
  <br>
  <br>
 <h4>All other sponsorship levels</h4>
- &check; Before March 1, 2026 - 80% refund is available.<br>
- &check; Between March 1, 2026 and April 15, 2026 - 50% refund is available.<br>
- &check; After April 15, 2026 - No refund is available.
+ &check; Before January 1, 2026 - 80% refund is available.<br>
+ &check; Between February 1, 2026 and March 1, 2026 - 50% refund is available.<br>
+ &check; After March 1, 2026 - No refund is available.
 <br>
 <br>
 Please email the organizers at <a href="mailto:nashville@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Nashville%202026">nashville@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
