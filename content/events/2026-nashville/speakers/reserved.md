@@ -1,5 +1,5 @@
 +++
-Title = "Great Speaker Coming Soon!"
+Title = "Great Speaker"
 Twitter = ""
 linkedin = ""
 image = ""
