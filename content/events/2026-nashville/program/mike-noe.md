@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "AI in Action!"
+Title = "AI in Action! SDLC Agents using LangChain+LangSmith in an Azure Environment."
 Type = "talk"
 Speakers = ["mike-noe"]
 +++

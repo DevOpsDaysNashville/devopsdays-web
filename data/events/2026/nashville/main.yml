@@ -163,7 +163,7 @@ program:
     date: 2026-04-14
     start_time: "09:15"
     end_time: "10:00"
-  - title: "scott-stroz"
+  - title: "elissa-shevinsky"
     type: talk
     date: 2026-04-14
     start_time: "10:00"
@@ -173,7 +173,7 @@ program:
     date: 2026-04-14
     start_time: "10:30"
     end_time: "10:45"
-  - title: "elissa-shevinsky"
+  - title: "scott-stroz"
     type: talk
     date: 2026-04-14
     start_time: "10:45"
@@ -203,7 +203,7 @@ program:
     date: 2026-04-14
     start_time: "13:30"
     end_time: "14:00"
-  - title: "chris-lee"
+  - title: "reserved"
     type: talk
     date: 2026-04-14
     start_time: "14:00"
@@ -244,7 +244,7 @@ program:
     date: 2026-04-15
     start_time: "10:30"
     end_time: "10:45"
-  - title: "reserved"
+  - title: "chris-lee"
     type: talk
     date: 2026-04-15
     start_time: "10:45"
