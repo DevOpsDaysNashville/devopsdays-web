@@ -185,7 +185,7 @@ program:
     date: 2026-05-14
     start_time: "11:15"
     end_time: "11:30"
-  - title: "reserved"
+  - title: "benv-savage1"
     type: talk
     date: 2026-05-14
     start_time: "11:30"
@@ -205,7 +205,7 @@ program:
     date: 2026-05-14
     start_time: "13:30"
     end_time: "14:00"
-  - title: "reserved"
+  - title: "vivek-madem"
     type: talk
     date: 2026-05-14
     start_time: "14:00"
@@ -276,7 +276,7 @@ program:
     date: 2026-05-15
     start_time: "14:15"
     end_time: "14:45"
-  - title: "reserved"
+  - title: "benv-savage2"
     type: talk
     date: 2026-05-15
     start_time: "14:45"
