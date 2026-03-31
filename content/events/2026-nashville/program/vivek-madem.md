@@ -2,37 +2,29 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Closing the Feedback Loop: Using AI to Turn Postmortems into Continuous Improvement"
+Title = "From Noise to Narrative: Using AI to Reduce Cognitive Load in Incident Response"
 Type = "talk"
 Speakers = ["vivek-madem"]
 +++
 
-DevOps emphasizes continuous improvement, shared learning, and strong feedback loops. Yet in practice, many organizations struggle to extract durable insight from incidents. Postmortems are written, action items are tracked, and over time, similar failures resurface in slightly different forms.
+As systems grow more distributed and interconnected, incident response has become less about finding data and more about interpreting it. During outages, engineers face alert storms, multiple dashboards, logs, traces, and chat threads, all competing for attention. The real bottleneck is no longer access to information, but the human ability to process it under pressure.
 
-AI is beginning to change how teams process and learn from operational history. By analyzing incident timelines, chat transcripts, ticket metadata, and resolution patterns, AI systems can identify recurring root causes, surface cross-team dependencies, and highlight systemic weaknesses that individual postmortems might miss.
+In response, many teams are beginning to integrate AI into their operational workflows—not as autonomous decision-makers, but as cognitive assistants. Rather than auto-remediating blindly, AI is being used to correlate signals, summarize incidents in real time, highlight anomalies, and surface relevant historical context. The goal is not to replace human judgment, but to improve clarity and reduce decision fatigue.
 
-Rather than treating incidents as isolated events, AI enables organizations to identify themes such as:
+This talk explores how AI-driven signal synthesis aligns with core DevOps principles:
 
-Repeated ownership ambiguity
-Common failure domains across services
-Delays caused by alert noise
-Patterns in escalation behavior
-Recurring configuration-related failures
+Automation: Reducing manual triage work during incidents
+Measurement: Improving visibility and contextual awareness
+Culture: Supporting collaborative decision-making instead of heroics
+Sharing: Capturing and summarizing knowledge for postmortems
 
-This talk connects AI implementation directly to core DevOps principles:
+We will examine practical implementation patterns, including:
 
-Measurement: Quantifying operational friction beyond uptime metrics
-Automation: Reducing manual analysis effort
-Culture: Encouraging blameless systemic analysis
-Sharing: Turning tribal knowledge into accessible insight
+AI-generated incident summaries from logs and metrics
+Context-aware alert grouping
+Historical incident similarity detection
+Chat-based operational assistants
 
-We will explore how teams are using AI to:
+We will also discuss the limitations and risks, including over-trust, hallucination risks, and automation bias.
 
-Aggregate postmortem data across services
-Detect similarity patterns across incidents
-Recommend preventive actions based on historical trends
-Surface improvement opportunities proactively
-
-We will also discuss the risks of over-automating learning, and why human interpretation remains critical.
-
-Attendees will leave with practical ways to incorporate AI into their feedback loops while preserving the cultural foundations that make DevOps effective.
+Attendees will leave with a clearer understanding of where AI meaningfully improves DevOps workflows and where human reasoning must remain central.

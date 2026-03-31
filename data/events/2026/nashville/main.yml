@@ -251,7 +251,7 @@ program:
     date: 2026-05-15
     start_time: "10:45"
     end_time: "11:15"
-  - title: "reserved"
+  - title: "camila-martins"
     type: talk
     date: 2026-05-15
     start_time: "11:15"
@@ -271,18 +271,18 @@ program:
     date: 2026-05-15
     start_time: "13:15"
     end_time: "14:15"
-  - title: "camilla-martins"
-    type: talk
-    date: 2026-05-15
-    start_time: "14:15"
-    end_time: "14:45"
   - title: "benv-savage2"
     type: talk
     date: 2026-05-15
-    start_time: "14:45"
+    start_time: "14:15"
     end_time: "15:15"
+  - title: "reserved"
+    type: talk
+    date: 2026-05-15
+    start_time: "15:15"
+    end_time: "15:45"
   - title: "Closing - Sponsor Raffles and Prizes"
     type: custom
     date: 2026-05-15
-    start_time: "15:15"
-    end_time: "16:00"
+    start_time: "15:45"
+    end_time: "16:15"
