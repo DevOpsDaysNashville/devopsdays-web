@@ -19,11 +19,13 @@ Description = "devopsdays Nashville 2027"
   </div>
   <div class = "col-md-6" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px; padding: 10px; border-radius: 10px">
     <h1>Welcome to DevOpsDays Nashville 2027</h1>
-    <hr>
-    Get all the details on our event at the <a href="https://https://dodnashville.com/">DevOpsDays Nashville 2027</a> website!
-    <h2>Mobile App Available!</h2>
-    <p><a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">Download the DevOps Days Nashville mobile app for iOS.</a></p>
-    <p>The DevOps Days Nashville mobile app is the place to get information about the schedule, speakers, sponsors, and maps.</p>
+    <h2>Your Nashville event hub is at dodnashville.com</h2>
+    <p>For the latest DevOpsDays Nashville details, go straight to <strong><a href="https://dodnashville.com/">dodnashville.com</a></strong>. That is the best place to find event updates, attendee information, travel details, schedule changes, speaker news, sponsor highlights, and everything you need before you arrive.</p>
+    <p><strong>Bookmark <a href="https://dodnashville.com/">dodnashville.com</a> now</strong> so you are always working from the freshest Nashville event information.</p>
+    <h2>Download the Apple App Before You Arrive</h2>
+    <p><strong><a href="https://apps.apple.com/us/app/devops-days-nashville/id6754512737">Download the DevOps Days Nashville app for iPhone from the Apple App Store.</a></strong></p>
+    <p>The Apple app is the easiest way to keep the event in your pocket. Use it for the schedule, speaker details, sponsor information, venue maps, and day-of updates while you are onsite.</p>
+    <p><strong>Before the event starts, visit <a href="https://dodnashville.com/">dodnashville.com</a> and download the Apple app.</strong></p>
     <p><em>Android coming soon!</em></p>
     <hr>
     <h2>Stay Connected!</h2>
